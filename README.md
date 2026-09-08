@@ -1,5 +1,7 @@
 # EEG Denoising Based on Wavelet Transform and ICA
 
+**English** | [中文](README.zh-CN.md)
+
 ## Overview
 
 `eeg_denoise.py` performs offline denoising of a single scalp-EEG EDF recording. The pipeline combines wavelet shrinkage with ICA/ICLabel artifact removal and outputs a compressed NPZ file.
