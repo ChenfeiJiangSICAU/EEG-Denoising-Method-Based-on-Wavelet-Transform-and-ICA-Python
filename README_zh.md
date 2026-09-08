@@ -1,5 +1,7 @@
 # 基于小波变换与 ICA 的 EEG 去噪
 
+[English](README.md) | **中文**
+
 ## 概述
 
 `eeg_denoise.py` 对单个头皮脑电 EDF 记录进行离线去噪。管线结合小波阈值收缩与 ICA/ICLabel 伪迹去除，输出压缩 NPZ 文件。
