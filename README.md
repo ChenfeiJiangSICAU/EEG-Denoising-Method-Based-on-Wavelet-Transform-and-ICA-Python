@@ -1,6 +1,6 @@
 # EEG Denoising Based on Wavelet Transform and ICA
 
-**English** | [中文](README.zh.md)
+**English** | [中文](README_zh.md)
 
 ## Overview
 
